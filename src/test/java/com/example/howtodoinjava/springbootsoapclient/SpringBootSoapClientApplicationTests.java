@@ -11,6 +11,7 @@ public class SpringBootSoapClientApplicationTests {
 
 	@Test
 	public void contextLoads() {
+              //TODO: some tests
 	}
 
 }
